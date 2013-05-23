@@ -1,7 +1,7 @@
 jquery-background-gradient-animation
 ====================================
 
-Animate your CSS background-image gradients with the power of jQuery!
+Animate your CSS background gradients with the power of jQuery!
 
 
 There's a lot of work that needs to be done with this project!
