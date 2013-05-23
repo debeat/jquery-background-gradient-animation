@@ -7,5 +7,8 @@ Animate your CSS background-image gradients with the power of jQuery!
 There's a lot of work that needs to be done with this project!
 So far, it's a proof of concept that can develop into something great!
 
-!!!IMPORTANT!!!
-For now, it only works in Firefox, but that's an easy tweak coming up soon!
+A little bit of cross-browser CSS compatibility has been added, but needs improvement.
+The project will eventually be abstracted further for more control.
+
+jsFiddle: 
+http://jsfiddle.net/ssenkus/BfCav/
